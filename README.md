@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Olá, bem vindo ao meu Github, eu me chamo cristian.</h2>
+<h2 align="center">Olá, bem vindo ao meu Github.</h2>
 
 ###
 
